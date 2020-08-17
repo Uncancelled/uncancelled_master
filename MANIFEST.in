@@ -1,0 +1,3 @@
+graft uncancelled_master
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  uncancelled_master/jupy *
